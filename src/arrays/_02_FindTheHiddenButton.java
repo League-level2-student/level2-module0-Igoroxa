@@ -88,5 +88,8 @@ public class _02_FindTheHiddenButton implements ActionListener{
 		else {
 			JOptionPane.showMessageDialog(null, "Try Again");
 		}
+		for (int i = 0; i < button.length; i++) {
+			
+		}
 	}
 }
